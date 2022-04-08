@@ -1,0 +1,1 @@
+print("hii sadhik mawaaa")
